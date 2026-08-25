@@ -43,4 +43,5 @@ The dashboard is structured into a multi-page report designed to track high-leve
 * Analyzed user behavior across different demographic segments and devices to optimize future budget allocations.
 
 ---
-**Contact:** [Your LinkedIn Profile Link]
+**Contact:** inkedin.com/in/adoram-valerón-suáre
+z-041196341
